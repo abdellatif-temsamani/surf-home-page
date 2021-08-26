@@ -1,3 +1,4 @@
 const today = document.getElementById("today");
 
-console.log
+
+console.log(today)
