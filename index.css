@@ -1,0 +1,19 @@
+body {
+  margin-top: 20;
+  background-color: #1a1b26;
+}
+
+h2 {
+  color: antiquewhite;
+  text-align: center;
+  font-size: 60;
+  font-family: "courier,arial,helvetica";
+}
+
+.main {
+  align-items: center;
+  margin-left: 60;
+  margin-right: 60;
+  width: 90%;
+  height: 80%;
+}
