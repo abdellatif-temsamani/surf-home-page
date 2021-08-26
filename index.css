@@ -10,6 +10,10 @@ h2 {
   font-family: "courier,arial,helvetica";
 }
 
+#today {
+    font-size: 40 !important;
+}
+
 .main {
   align-items: center;
   margin-left: 60;
