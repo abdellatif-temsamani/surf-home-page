@@ -7,7 +7,9 @@ const engine = "search.brave.com";
 today.textContent = d.toUTCString();
 
 function beBrave() {
-    window.location = "https://" + engine + "/search?q=" + search.value;
+    if (search.value != "") {
+        window.location = "https://" + engine + "/search?q=" + search.value;
+    }
 }
 
 btn.addEventListener('click', beBrave);
