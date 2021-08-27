@@ -7,7 +7,7 @@
 }
 
 body {
-  margin-top: 20;
+  margin-top: 130;
   background-image: url(back.jpg);
 }
 
@@ -27,7 +27,7 @@ h2 {
   margin-left: 60;
   margin-right: 60;
   width: 90%;
-  height: 80%;
+  height: 77%;
 }
 
 #search {
@@ -43,4 +43,7 @@ h2 {
  color: antiquewhite;
  text-align: center;
  background-color: #1a1b26;
+ text-decoration: none;
+ padding: 13;
+ border-radius: 80;
 }
