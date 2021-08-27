@@ -1,13 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  font-family: "courier,arial,helvetica";
+}
+
 body {
   margin-top: 20;
-  background-color: #1a1b26;
+  background-image: url(back.jpg);
 }
 
 h2 {
   color: antiquewhite;
   text-align: center;
   font-size: 60;
-  font-family: "courier,arial,helvetica";
 }
 
 #today {
@@ -15,9 +22,25 @@ h2 {
 }
 
 .main {
-  align-items: center;
+  text-align: center;
+  margin-top: 50;
   margin-left: 60;
   margin-right: 60;
   width: 90%;
   height: 80%;
+}
+
+#search {
+ margin-top: 90;
+ font-size: 40;
+ padding: 10;
+
+}
+
+#btn {
+ margin-top: 80;
+ font-size: 30;
+ color: antiquewhite;
+ text-align: center;
+ background-color: #1a1b26;
 }
