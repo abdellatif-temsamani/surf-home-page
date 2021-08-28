@@ -34,16 +34,21 @@ h2 {
  margin-top: 90;
  font-size: 40;
  padding: 10;
-
+ background-color: #1a1b26;
+ color: #fafbff;
+ border-radius: 80;
+ border-style: solid;
+ border-color: #fafbff;
 }
 
 #btn {
  margin-top: 80;
  font-size: 30;
- color: antiquewhite;
  text-align: center;
+ color: #fafbff;
  background-color: #1a1b26;
- text-decoration: none;
  padding: 13;
  border-radius: 80;
+ border-style: solid;
+ border-color: #fafbff;
 }
