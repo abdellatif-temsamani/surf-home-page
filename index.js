@@ -2,7 +2,7 @@ const search = document.getElementById("search");
 const btn = document.getElementById("btn");
 const engine = "search.brave.com";
 
-function beBrave() {
+const beBrave = () => {
     if (search.value != "") {
         window.location = "https://" + engine + "/search?q=" + search.value;
     }
