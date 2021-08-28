@@ -1,4 +1,3 @@
-const search = document.getElementById("search");
 const btn = document.getElementById("btn");
 const engine = "search.brave.com";
 
