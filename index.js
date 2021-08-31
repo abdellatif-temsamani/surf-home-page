@@ -15,7 +15,7 @@ function keyboardHandler(e) {
     console.log(e)
     if (e.code == "Enter") {
         window.location = "https://" + engine + "/search?q=" + search.value;
-    } else if (e.code === "KeyS") {
+    } else {
         search.focus();
     }
 }
