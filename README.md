@@ -1,11 +1,3 @@
-# usage
+# info**!!**
 
-```
-vim ~/.local/bin/browser
-'''sh
-#!/bin/sh
-neosurf <path to the repo>
-# or
-surf <path to the repo>
-'''
-```
+this project for my fork of surf browser called (neosurf)[https://github.com/abdellatif-dev/neosurf.git]
